@@ -11,3 +11,8 @@ void main()
 int add(int p,int q)
 {
 }
+
+int sub(int a, int b)
+{
+ return p-q; 
+}
