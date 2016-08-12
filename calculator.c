@@ -1,7 +1,7 @@
 //This is calculator program.
 
 #include<stdio.h>
-void main|()
+void main()
 {
   int a,b,c;
   //Add calculator function in this code
@@ -10,5 +10,4 @@ void main|()
 
 int add(int p,int q)
 {
- return p+q; 
 }
