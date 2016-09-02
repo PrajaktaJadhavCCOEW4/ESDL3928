@@ -1,5 +1,5 @@
 //This is calculator program.
-
+//this program is able to do all arithmatic calculations
 #include<stdio.h>
 void main()
 {
@@ -16,3 +16,4 @@ int sub(int a, int b)
 {
  return p-q; 
 }
+///////changes made from desktop application...........
